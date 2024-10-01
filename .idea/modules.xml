@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MorseCode - IntelliJ/MorseCode - IntelliJ.iml" filepath="$PROJECT_DIR$/MorseCode - IntelliJ/MorseCode - IntelliJ.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MorseTree.iml" filepath="$PROJECT_DIR$/.idea/MorseTree.iml" />
     </modules>
   </component>
