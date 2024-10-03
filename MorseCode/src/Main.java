@@ -18,6 +18,11 @@ public class Main {
             tree.insert(pair[0], pair[1]);
         }
 
+        System.out.println();
+        System.out.println("-----------------------------");
+        System.out.println("   PALAVRAS DECODIFICADAS");
+        System.out.println("-----------------------------");
+
         tree.translate(".- .-. -.-- / ..-. . .-.. .. .--. .");
         tree.translate("-... .- .-. -... .- .-. .- / - .. .--. .--. .-");
         tree.translate("-.-. .- .-. --- .-.. / .- ... ... .. ...");
